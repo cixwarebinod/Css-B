@@ -1,0 +1,27 @@
+body{
+    margin-left:15px;
+    border:2px black solid;
+    border-radius:15px;
+    padding:10px;
+    font-family: Comic Sans MS;
+}
+img{
+    width:100px;
+    float:left;
+    image-resolution: 10%;
+}
+h1{
+    font-family:Comic Sans;
+    color:rgb(10,100,150);
+
+}
+h2{
+    background-color:lightblue;
+    border-radius:3px;
+}
+.content{
+    padding:10px;
+}
+footer{
+    color:darkgray;
+}
