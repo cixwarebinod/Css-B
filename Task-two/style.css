@@ -1,0 +1,53 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color: lightcyan;
+    color:#ffffff;
+}
+header{
+    background-image: url("images/head.jpg");
+}
+header img{
+    width:160px;
+    height:150px;
+    margin:20px;
+    padding:5px;
+    border:5px solid white;
+    border-radius: 3px;
+}
+.index{
+    width:100%;
+    background-color:black;
+    font-size: 20px;
+    height: 30px;
+    border-top:2px solid white;
+}
+a{
+    margin-right: 20px;
+    color:#ffffff;
+    text-decoration: none;
+}
+a:visited{
+   color:yellow;
+}
+h2{
+    background-color: rgb(250, 139, 59);
+    padding:10px;
+}
+.tb1,.tb3{
+    width:50%;
+    float:left;
+    margin:20px;
+    background-color: grey;
+    margin-left: 60px;
+}
+.tb2,.tb4,.tb5{
+    float:right;
+    width:30%;
+    margin:20px;
+    background-color: grey;
+    height: 50px;
+    margin-right: 60px;
+}
+td h2{
+    background-color: orangered;
+}
