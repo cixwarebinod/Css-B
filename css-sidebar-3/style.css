@@ -20,8 +20,15 @@ header{
     line-height: 2.5em;
     padding-left: 10px;
     border-left:4px solid grey;
-    margin-top:4px;
+    margin-top:5px;
     background-color: rgb(221, 220, 220);
+}
+a{
+    color: black;
+    text-decoration: none
+}
+a:hover{
+    background-color: rgb(168, 248, 136);
 }
 .top1{
     position: absolute;
